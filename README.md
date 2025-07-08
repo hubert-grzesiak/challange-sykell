@@ -45,7 +45,7 @@ The entire application stack (Frontend, Backend, Database) is orchestrated with 
 First, clone the project repository to your local machine.
 
 ```bash
-git clone ...
+git clone git@github.com:hubert-grzesiak/challange-sykell.git
 cd challange-sykell
 
 
@@ -72,9 +72,6 @@ cd frontend
 
 # Run tests
 bun test
-# lub jeśli używasz npm: npm test
-# lub jeśli używasz yarn: yarn test
-
 
 Project Structure
 The project is organized into two main parts within a monorepo structure:
